@@ -1,2 +1,5 @@
-package com.codestates;public class ToDoApplication {
+package com.codestates;
+
+
+public class ToDoApplication {
 }
